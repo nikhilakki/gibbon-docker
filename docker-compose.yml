@@ -1,4 +1,4 @@
-version: '2'
+version: "2"
 services:
   gibbon:
     depends_on:
@@ -15,7 +15,7 @@ services:
     ports:
       - 3306:3306
     volumes:
-       - data:/var/lib/mysql
+      - ./data:/var/lib/mysql
     environment:
       MYSQL_ROOT_PASSWORD: p4ssw0rd!
       MYSQL_DATABASE: ghost
@@ -23,5 +23,4 @@ services:
       - back
 networks:
   back:
-volumes:
-  data:
+volumes: data:
