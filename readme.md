@@ -27,4 +27,4 @@ Setup Instructions
    2. ![post setup 2](post-setup02.png)
    3. ![post setup 3](post-setup03.png)
 7. Login with your newly created user account
-8. Read Gibbon user manual for further customization
+8. Read [Gibbon user manual](https://docs.gibbonedu.org/administrators/getting-started/getting-started-with-gibbon/) for further customization
