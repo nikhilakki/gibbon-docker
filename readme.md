@@ -15,6 +15,16 @@ Setup Instructions
         ```bash
         docker-compose ps
         ```
-3. Visit http://0.0.0.0 or http://<ipaddress-of-server>
+3. Visit http://0.0.0.0 (on Server machine) or http://\<ipaddress-of-server> (on Client machine)
 4. Follow install instructions
-   1. 
+![image](./setup.png)
+
+*Note: Change the root password in docker-compose.yml file.*
+
+5. Once setup is complete visit repeat step 3
+6. Follow setup instructions in the LMS screen
+   1. ![post setup 1](post-setup01.png)
+   2. ![post setup 1](post-setup02.png)
+   3. ![post setup 1](post-setup03.png)
+7. Login with your newly created user account
+8. Read Gibbon user manual for further customization
