@@ -23,8 +23,8 @@ Setup Instructions
 
 5. Once setup is complete visit repeat step 3
 6. Follow setup instructions in the LMS screen
-   1. ![post setup 1](post-setup01.png)
-   2. ![post setup 1](post-setup02.png)
-   3. ![post setup 1](post-setup03.png)
+   1. ![post setup 1](post-setup01-edit.png)
+   2. ![post setup 2](post-setup02.png)
+   3. ![post setup 3](post-setup03.png)
 7. Login with your newly created user account
 8. Read Gibbon user manual for further customization
