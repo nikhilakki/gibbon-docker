@@ -15,7 +15,7 @@ services:
     ports:
       - 3306:3306
     volumes:
-       - db_data:/var/lib/mysql
+       - data:/var/lib/mysql
     environment:
       MYSQL_ROOT_PASSWORD: p4ssw0rd!
       MYSQL_DATABASE: ghost
@@ -24,4 +24,4 @@ services:
 networks:
   back:
 volumes:
-  db_data:
+  data:
